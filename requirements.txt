@@ -1,4 +1,10 @@
-opencv-python
 torch
-openvino
-matplotlib
+torchvision
+numpy
+pillow
+uvicorn
+fastapi
+aiofiles
+python-multipart
+skimage
+gdown
